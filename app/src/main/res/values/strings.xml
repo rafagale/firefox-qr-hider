@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Firefox QR Hider</string>
+    <string name="app_desc">Hides the QR button from the search bar in mozilla firefox based browsers</string>
+</resources>
