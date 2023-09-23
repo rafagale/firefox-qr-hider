@@ -7,7 +7,7 @@ android {
 
     defaultConfig {
         applicationId "es.rafagale.qrhider"
-        minSdk 16
+        minSdk 18
         targetSdk 31
         versionCode appVerCode.toInteger()
         versionName appVerName
