@@ -33,7 +33,7 @@ If you encounter any issues or have suggestions for improvements, please visit t
 
 ## License
 
-This Xposed module is distributed under the [MIT License](LICENSE).
+This project is licensed under the [GNU General Public Licence, version 3](https://choosealicense.com/licenses/gpl-3.0/).
 
 ## Disclaimer
 
